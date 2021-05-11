@@ -1,0 +1,58 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.error {
+  color: red;
+}
+
+.input-error {
+  color: red;
+}
+
+th,
+td {
+  padding: 15px;
+}
+
+.donor-requests__title {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.donor-requests__table {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.bloodbank__table {
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.request-blood__title {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+#request-blood-message {
+  text-align: center;
+  color: green;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#request-blood__form {
+  width: fit-content;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.server-error-image {
+  width: 100vw;
+  height: 100vh;
+}
